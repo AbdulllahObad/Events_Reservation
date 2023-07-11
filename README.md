@@ -12,7 +12,10 @@ The Event App is a web application that allows users to browse and discover vari
 - View event details, including name, description, category, and price
 - Filter events by category
 - Sign up for events
-- Responsive design for optimal viewing on different devices
+- Responsive design for optimal viewing on different devices.
+
+## Backend Implementation (Ongoing....)
+The backend part of this application is currently ongoing and will be implemented using the Spring framework. The backend will follow a CRUD (Create, Read, Update, Delete) approach, allowing for efficient data storage, retrieval, and manipulation operations.
 
 ## Technologies Used
 
